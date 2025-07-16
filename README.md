@@ -1,1 +1,3 @@
-# 01---Analysis-of-Variance-ANOVA-
+<h1 align='center'> Analysis of Variance (ANOVA)</h1>
+
+This repository provides a collection of Python scripts designed for conducting Analysis of Variance (ANOVA), a statistical method used to examine differences between group means and test the influence of categorical factors on continuous outcomes. It includes implementations for both one-way and two-way ANOVA with interaction effects, alongside assumption checks such as the Shapiro-Wilk normality test. The tools are applicable to various experimental designs, especially in agriculture and biological sciences, and come with a realistic demo dataset to support learning, research, and data-driven decision-making.
