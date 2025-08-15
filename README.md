@@ -1,6 +1,6 @@
 <h1 align='center'> 📊 𝔖𝔱𝔞𝔱𝔦𝔰𝔱𝔦𝔠𝔞𝔩 𝔗𝔢𝔰𝔱𝔦𝔫𝔤 𝔦𝔫 𝔇𝔞𝔱𝔞 𝔄𝔫𝔞𝔩𝔶𝔰𝔦𝔰 – 𝔓𝔯𝔞𝔠𝔱𝔦𝔠𝔞𝔩 ℑ𝔪𝔭𝔩𝔢𝔪𝔢𝔫𝔱𝔞𝔱𝔦𝔬𝔫</h1>
 
-## 📜 Overview
+### 📜 Overview
 
 This repository is a **comprehensive and hands-on resource** for implementing **statistical tests** within modern **data analysis workflows**. It bridges the gap between **statistical theory** and **practical application** by providing **ready-to-use Python scripts** and **annotated Jupyter notebooks** designed to work with both **real-world** and **synthetically generated datasets**.
 
@@ -13,9 +13,8 @@ The structure and content of the repository are carefully organized to guide use
 
 Whether your focus is **academic research**, **business intelligence**, **agriculture**, **healthcare**, or **general analytics**, this repository equips you with **clear, reusable, and scalable tools** for performing rigorous and interpretable statistical analyses.
 
----
 
-## 🎯 Objectives
+## Objectives
 
 The **core mission** of this repository is to **demystify statistical testing** and make it a **reliable companion** in data-driven decision-making.
 
