@@ -1,4 +1,4 @@
-<h1 align='center'> Hypothesis Testing in Python </h1>
+<h1 align='center'> ʜʏᴘᴏᴛʜᴇꜱɪꜱ ᴛᴇꜱᴛɪɴɢ ɪɴ ᴘʏᴛʜᴏɴ </h1>
 
 
 This  repository is dedicated to the practical implementation of statistical tests within data analysis workflows. It provides ready-to-use Python scripts and Jupyter notebooks that apply both descriptive and inferential statistics to real and simulated datasets. Each project is crafted to demonstrate how to use statistical methods to explore, summarize, and make data-driven decisions. Whether analyzing group differences, testing relationships, or validating assumptions, this repository bridges theoretical concepts with applied data science.
